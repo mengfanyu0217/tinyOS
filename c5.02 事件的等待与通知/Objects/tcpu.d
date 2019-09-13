@@ -1,0 +1,14 @@
+.\objects\tcpu.o: tCPU.c
+.\objects\tcpu.o: tinyOS.h
+.\objects\tcpu.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\tcpu.o: tLib.h
+.\objects\tcpu.o: tConfig.h
+.\objects\tcpu.o: tEvent.h
+.\objects\tcpu.o: tTask.h
+.\objects\tcpu.o: E:\Keil5\ARM\PACK\ARM\CMSIS\5.4.0\Device\ARM\ARMCM3\Include\ARMCM3.h
+.\objects\tcpu.o: E:\Keil5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm3.h
+.\objects\tcpu.o: E:\Keil5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\tcpu.o: E:\Keil5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\tcpu.o: E:\Keil5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\tcpu.o: E:\Keil5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\mpu_armv7.h
+.\objects\tcpu.o: E:\Keil5\ARM\PACK\ARM\CMSIS\5.4.0\Device\ARM\ARMCM3\Include\system_ARMCM3.h
